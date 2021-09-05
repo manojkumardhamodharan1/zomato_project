@@ -1,0 +1,89 @@
+.header1{
+	min-height:	50vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(4,9,30,0.0),rgba(4,9,30,0.0)),url(./images/pie.jpeg);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	
+} 
+
+.textitem {
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-top: 30px;
+}
+
+.textitem Select{
+	width: 20px; 
+}
+
+.txtbox1{
+
+	padding-top: 25px;
+	padding-left: 0px;
+	
+}
+
+.txtbox1 input{
+	width: 700px;
+	height: 32px;
+
+}
+
+.txtbox2{
+
+	padding-top: 25px;
+	padding-left: 0px;
+	
+}
+
+.txtbox2 input{
+	width: 700px;
+	height: 32px;
+
+}
+
+
+.txtbox3{
+
+	padding-top: 25px;
+	padding-left: 0px;
+	
+}
+
+.txtbox3 input{
+	width: 700px;
+	height: 32px;
+
+}
+
+.txtbox4{
+
+	padding-top: 25px;
+	padding-left: 0px;
+	
+}
+
+.txtbox4 input{
+	width: 700px;
+	height: 32px;
+
+}
+
+.btn1 {
+	padding-top: 25px;
+}
+
+.login{
+	padding-top: 30px;
+}
+
+.log-pass{
+	padding-top: 20px;
+}
+
+.footer{
+	padding-top: 20px;
+}
+
