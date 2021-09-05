@@ -15,6 +15,7 @@ import history from './history';
 
 class App extends Component{
   render(){
+    console.log("App starts...!!")
     return(
       <Router history={history}> 
         <div className="App">
